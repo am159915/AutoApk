@@ -1,5 +1,4 @@
 import mechanize
-import pyperclip
 apkname = input("whats The app name: ")
 browser = mechanize.Browser()
 browser.set_handle_robots(False)
